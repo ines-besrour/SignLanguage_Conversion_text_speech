@@ -3,7 +3,7 @@
 A deep learning-based project that converts sign language gestures into **text** and **speech**, enabling real-time communication between sign language users and non-signers.
 
 <img src="assets/sign_alphabet.jpg" width="400" />
----
+
 
 ## Project Overview
 
