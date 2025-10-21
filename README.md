@@ -2,7 +2,7 @@
 
 A deep learning-based project that converts sign language gestures into **text** and **speech**, enabling real-time communication between sign language users and non-signers.
 
-![Sign Language Alphabet](C:\Users\heha\OneDrive\Desktop\Sign-Language-To-Text-and-Speech-Conversion\assets\sign_alphabet.jpg)
+![Sign Language Alphabet](assets\sign_alphabet.jpg)
 
 ---
 
